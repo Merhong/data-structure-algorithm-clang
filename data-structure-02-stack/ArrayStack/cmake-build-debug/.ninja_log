@@ -1,0 +1,4 @@
+# ninja log v5
+0	69	1705305365101705122	CMakeFiles/ArrayStack.dir/main.c.o	4a18edba9d1f8e7b
+1	69	1705305365101698039	CMakeFiles/ArrayStack.dir/ArrayStack.c.o	4027303a994dad4d
+69	164	1705305365195844586	ArrayStack	b4965cc3b4624ee0
