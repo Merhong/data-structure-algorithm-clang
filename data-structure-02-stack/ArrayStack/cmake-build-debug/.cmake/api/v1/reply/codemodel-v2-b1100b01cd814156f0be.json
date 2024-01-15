@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/data-structure-02-stack/ArrayStack/cmake-build-debug",
-		"source" : "/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/data-structure-02-stack/ArrayStack"
+		"build" : "/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-02-stack/ArrayStack/cmake-build-debug",
+		"source" : "/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-02-stack/ArrayStack"
 	},
 	"version" : 
 	{
