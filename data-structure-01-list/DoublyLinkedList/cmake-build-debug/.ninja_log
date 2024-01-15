@@ -1,0 +1,4 @@
+# ninja log v5
+1	100	7266626385740662	CMakeFiles/DoublyLinkedList.dir/main.c.obj	3af2b8d810a94160
+8	107	7266626385808914	CMakeFiles/DoublyLinkedList.dir/DoublyLinkedList.c.obj	8e3f7943035c38f4
+107	250	7266626387166824	DoublyLinkedList.exe	ce2462a9572dbfa6

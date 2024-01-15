@@ -1,0 +1,3 @@
+/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/convention/cmake-build-debug/CMakeFiles/convention.dir
+/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/convention/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/convention/cmake-build-debug/CMakeFiles/rebuild_cache.dir
