@@ -1,0 +1,5 @@
+# ninja log v5
+0	111	1705315209027145508	CMakeFiles/Calculator.dir/main.c.o	ca7eca345262af24
+0	111	1705315209028167331	CMakeFiles/Calculator.dir/Calculator.c.o	35301a19f54edc47
+1	112	1705315209027142550	CMakeFiles/Calculator.dir/LinkedListStack.c.o	2d94d896853473f8
+112	202	1705315209116143498	Calculator	ba4fdc86af7f984a
