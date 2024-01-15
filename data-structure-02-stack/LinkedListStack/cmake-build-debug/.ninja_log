@@ -1,0 +1,4 @@
+# ninja log v5
+0	108	1705312751971862339	CMakeFiles/LinkedListStack.dir/main.c.o	95dc8655b1bcaf18
+1	109	1705312751971862630	CMakeFiles/LinkedListStack.dir/LinkedListStack.c.o	9d2a5d4d800968fd
+109	196	1705312752059533757	LinkedListStack	ec09eaaf786fc80e
