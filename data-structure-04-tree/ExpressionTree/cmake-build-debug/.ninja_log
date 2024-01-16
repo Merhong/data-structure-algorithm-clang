@@ -1,0 +1,7 @@
+# ninja log v5
+0	96	1705397573199970537	CMakeFiles/ExpressionTree.dir/main.c.o	e6520ed29d5fc65
+0	35	1705397589270473830	CMakeFiles/ExpressionTree.dir/ExpressionTree.c.o	9bf2f1e9d918874e
+35	122	1705397589356596251	ExpressionTree	80d5edb81fe2a3aa
+0	42	1705397794311633608	CMakeFiles/ExpressionTree.dir/main.c.o	e6520ed29d5fc65
+1	42	1705397794312840177	CMakeFiles/ExpressionTree.dir/ExpressionTree.c.o	9bf2f1e9d918874e
+42	73	1705397794342448862	ExpressionTree	80d5edb81fe2a3aa
