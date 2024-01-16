@@ -1,0 +1,9 @@
+# ninja log v5
+0	94	1705391161158472582	CMakeFiles/LeftChildRightSibling.dir/main.c.o	cc6c430227f444d0
+1	95	1705391161158452290	CMakeFiles/LeftChildRightSibling.dir/LCRSTree.c.o	15c3fcff21238457
+95	177	1705391161239865345	LeftChildRightSibling	af5f57bb8dd15c32
+0	45	1705391737589229858	CMakeFiles/LeftChildRightSibling.dir/main.c.o	cc6c430227f444d0
+1	45	1705391737590005136	CMakeFiles/LeftChildRightSibling.dir/LCRSTree.c.o	15c3fcff21238457
+45	78	1705391737622898957	LeftChildRightSibling	af5f57bb8dd15c32
+0	32	1705391873651623179	CMakeFiles/LeftChildRightSibling.dir/main.c.o	cc6c430227f444d0
+32	65	1705391873683950552	LeftChildRightSibling	af5f57bb8dd15c32
