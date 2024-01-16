@@ -20,15 +20,15 @@ int main(void) {
     E->Right = G;
 
     //  트리 출력
-    printf("Preorder ...\n");
+    printf("Preorder(Root->Left->Right) ...\n");
     SBT_PreorderPrintTree(A);
     printf("\n\n");
 
-    printf("Inorder ... \n");
+    printf("Inorder(Left->Root->Right) ... \n");
     SBT_InorderPrintTree(A);
     printf("\n\n");
 
-    printf("Postorder ... \n");
+    printf("Postorder(Left->Right->Root) ... \n");
     SBT_PostorderPrintTree(A);
     printf("\n");
 
