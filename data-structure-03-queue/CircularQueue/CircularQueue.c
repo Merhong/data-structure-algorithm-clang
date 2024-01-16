@@ -1,17 +1,18 @@
 #include "CircularQueue.h"
 
 void CQ_CreateQueue(CircularQueue **Queue, int Capacity) {
-    //  큐를 자유 저장소에 생성 
+    //  큐를 Heap에 생성
     (*Queue) = (CircularQueue *) malloc(sizeof(CircularQueue));
 
-    //  입력된 Capacity+1 만큼의 노드를 자유 저장소에 생성 
+    //  입력된 Capacity+1 만큼의 노드를 Heap에 생성
     (*Queue)->Nodes = (Node *) malloc(sizeof(Node) * (Capacity + 1));
-
+    // 초기화
     (*Queue)->Capacity = Capacity;
     (*Queue)->Front = 0;
     (*Queue)->Rear = 0;
 }
 
+// 큐 제거
 void CQ_DestroyQueue(CircularQueue *Queue) {
     free(Queue->Nodes);
     free(Queue);

@@ -8,14 +8,14 @@ typedef int ElementType;
 
 // 원형큐 노드 구조체
 typedef struct tagNode {
-    ElementType Data;
+    ElementType Data; // 데이터
 } Node;
 
 // 원형큐 구조체
 typedef struct tagCircularQueue {
-    int Capacity;
-    int Front;
-    int Rear;
+    int Capacity; // 큐의 용량
+    int Front; // 전단
+    int Rear; // 후단
 
     Node *Nodes;
 } CircularQueue;
