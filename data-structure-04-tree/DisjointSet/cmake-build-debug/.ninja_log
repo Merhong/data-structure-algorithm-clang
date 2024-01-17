@@ -1,0 +1,4 @@
+# ninja log v5
+10	143	7271839057756136	CMakeFiles/DisjointSet.dir/DisjointSet.c.obj	7fb843574f32a983
+1	144	7271839057766145	CMakeFiles/DisjointSet.dir/main.c.obj	ab0662b79658af12
+144	318	7271839059448889	DisjointSet.exe	fc88305899f4df39
