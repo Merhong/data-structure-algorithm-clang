@@ -1,0 +1,4 @@
+# ninja log v5
+5	138	7272864155222227	build.ninja	d2e6969b0710e5b8
+0	87	7272863953064342	CMakeFiles/BubbleSort.dir/BubbleSort.c.obj	7cffb1e758304eec
+89	243	7272863954559740	BubbleSort.exe	5c8733847fc747c
