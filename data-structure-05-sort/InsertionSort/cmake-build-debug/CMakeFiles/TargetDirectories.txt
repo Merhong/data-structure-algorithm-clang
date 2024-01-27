@@ -1,0 +1,3 @@
+/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-05-sort/InsertionSort/cmake-build-debug/CMakeFiles/InsertionSort.dir
+/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-05-sort/InsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-05-sort/InsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

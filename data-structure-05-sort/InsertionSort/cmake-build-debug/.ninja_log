@@ -1,0 +1,4 @@
+# ninja log v5
+0	47	1706333131246693332	build.ninja	725facc90dfc2e55
+0	194	1706333131446153182	CMakeFiles/InsertionSort.dir/InsertionSort.c.o	31cef25b460504a3
+194	298	1706333131545867460	InsertionSort	70c72b475342bf68
