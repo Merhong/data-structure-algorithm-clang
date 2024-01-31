@@ -114,7 +114,7 @@ int main(void) {
     else
         printf("Not Found : %d\n", Match->Data);
 
-    //  모든 노드를 메모리에서 제거
+.    //  모든 노드를 메모리에서 제거
     printf("Destroying List...\n");
 
     for (i = 0; i < Count; i++) {
