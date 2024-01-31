@@ -21,15 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f92de70e-f75a-4b54-afd4-177e63d52b6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BinarySearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Point.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SequentialSearch/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SequentialSearch/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706686302951</updated>
       <workItem from="1706686304634" duration="368000" />
-      <workItem from="1706686680187" duration="74000" />
+      <workItem from="1706686680187" duration="499000" />
     </task>
     <servers />
   </component>
