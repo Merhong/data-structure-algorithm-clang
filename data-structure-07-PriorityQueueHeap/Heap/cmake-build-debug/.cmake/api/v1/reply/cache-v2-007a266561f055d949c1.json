@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "data_structure_07_PriorityQueueHeap"
+			"value" : "Heap"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1022,7 +1022,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "data_structure_07_PriorityQueueHeap_BINARY_DIR",
+			"name" : "Heap_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1034,7 +1034,7 @@
 			"value" : "/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-07-priorityqueueheap/Heap/cmake-build-debug"
 		},
 		{
-			"name" : "data_structure_07_PriorityQueueHeap_IS_TOP_LEVEL",
+			"name" : "Heap_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1046,7 +1046,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "data_structure_07_PriorityQueueHeap_SOURCE_DIR",
+			"name" : "Heap_SOURCE_DIR",
 			"properties" : 
 			[
 				{

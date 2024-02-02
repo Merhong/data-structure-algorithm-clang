@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "data_structure_07_PriorityQueueHeap",
+					"name" : "Heap",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "data_structure_07_PriorityQueueHeap::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-data_structure_07_PriorityQueueHeap-Debug-434ea81faef605e709a4.json",
-					"name" : "data_structure_07_PriorityQueueHeap",
+					"id" : "Heap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Heap-Debug-15d35521055dd465007a.json",
+					"name" : "Heap",
 					"projectIndex" : 0
 				}
 			]

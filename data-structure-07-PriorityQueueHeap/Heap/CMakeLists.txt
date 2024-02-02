@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.27)
-project(data_structure_07_PriorityQueueHeap C)
+project(Heap C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(data_structure_07_PriorityQueueHeap
+add_executable(Heap
         Heap.c
-        Test_Heap.c
-        Heap.h)
+        Heap.h
+        Test_Heap.c)

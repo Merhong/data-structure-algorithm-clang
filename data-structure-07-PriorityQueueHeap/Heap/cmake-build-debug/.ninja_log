@@ -1,7 +1,4 @@
 # ninja log v5
-0	35	1706862451709212253	CMakeFiles/data_structure_07_PriorityQueueHeap.dir/Test_Heap.c.o	f7a4a07be505c35e
-1	49	1706862772258215496	CMakeFiles/data_structure_07_PriorityQueueHeap.dir/Heap.c.o	bb11d9805788d5e
-49	143	1706862772351267819	data_structure_07_PriorityQueueHeap	5bdb23263ece9a1a
-1	27	1706863265332446799	CMakeFiles/data_structure_07_PriorityQueueHeap.dir/Test_Heap.c.o	2dad8c2260e9db0b
-1	29	1706863265334472178	CMakeFiles/data_structure_07_PriorityQueueHeap.dir/Heap.c.o	a997bce4d608fa99
-29	58	1706863265364072408	data_structure_07_PriorityQueueHeap	5bdb23263ece9a1a
+0	27	1706863509400568536	CMakeFiles/Heap.dir/Test_Heap.c.o	97f6857f485b31f8
+0	28	1706863509401928248	CMakeFiles/Heap.dir/Heap.c.o	2ffdd0ce8bf19b7e
+28	57	1706863509430753367	Heap	6b420862d5d7c9f1
