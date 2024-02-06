@@ -1,7 +1,8 @@
 #include "Chaining.h"
 
-int main(void) {
-    HashTable *HT = CHT_CreateHashTable(12289);
+int main(void)
+{
+    HashTable* HT = CHT_CreateHashTable(12289);
 
     CHT_Set(HT, "MSFT", "Microsoft Corporation");
     CHT_Set(HT, "JAVA", "Sun Microsystems");
