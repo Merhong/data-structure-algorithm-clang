@@ -61,6 +61,12 @@ build CMakeFiles/Graph.dir/Test_Graph.c.o: C_COMPILER__Graph_unscanned_Debug /Us
   OBJECT_DIR = CMakeFiles/Graph.dir
   OBJECT_FILE_DIR = CMakeFiles/Graph.dir
 
+build CMakeFiles/Graph.dir/test.c.o: C_COMPILER__Graph_unscanned_Debug /Users/merhong/workspace/C_lab/data-structure-clang/data-structure-09-graph/Graph/test.c || cmake_object_order_depends_target_Graph
+  DEP_FILE = CMakeFiles/Graph.dir/test.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles/Graph.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Graph
@@ -69,7 +75,7 @@ build CMakeFiles/Graph.dir/Test_Graph.c.o: C_COMPILER__Graph_unscanned_Debug /Us
 #############################################
 # Link the executable Graph
 
-build Graph: C_EXECUTABLE_LINKER__Graph_Debug CMakeFiles/Graph.dir/Graph.c.o CMakeFiles/Graph.dir/Test_Graph.c.o
+build Graph: C_EXECUTABLE_LINKER__Graph_Debug CMakeFiles/Graph.dir/Graph.c.o CMakeFiles/Graph.dir/Test_Graph.c.o CMakeFiles/Graph.dir/test.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/Graph.dir
   POST_BUILD = :

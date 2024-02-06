@@ -1,16 +1,15 @@
 #include "Graph.h"
 
-int main(void)
-{
+int main(void) {
     //  그래프 생성
-    Graph* G = CreateGraph();
+    Graph *G = CreateGraph();
 
     //  정점 생성
-    Vertex* V1 = CreateVertex('1');
-    Vertex* V2 = CreateVertex('2');
-    Vertex* V3 = CreateVertex('3');
-    Vertex* V4 = CreateVertex('4');
-    Vertex* V5 = CreateVertex('5');
+    Vertex *V1 = CreateVertex('1');
+    Vertex *V2 = CreateVertex('2');
+    Vertex *V3 = CreateVertex('3');
+    Vertex *V4 = CreateVertex('4');
+    Vertex *V5 = CreateVertex('5');
 
     //  그래프에 정점을 추가
     AddVertex(G, V1);

@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(Graph
         Graph.c
-        Test_Graph.c)
+        Test_Graph.c
+        test.c)
