@@ -1,0 +1,13 @@
+# ninja log v5
+0	54	1707205740404351574	CMakeFiles/GraphTraversal.dir/Test_GraphTraversal.c.o	26cd8b16e7fe69cf
+1	54	1707205740404348991	CMakeFiles/GraphTraversal.dir/GraphTraversal.c.o	37a460e55cf1d1ea
+1	54	1707205740404841698	CMakeFiles/GraphTraversal.dir/Graph.c.o	a653c2229b123ee7
+1	35	1707205749090941090	CMakeFiles/GraphTraversal.dir/LinkedQueue.c.o	4dcf502c8496c6d7
+36	70	1707205749124333372	GraphTraversal	5ccfdf8f8389a237
+1	34	1707205905062900350	CMakeFiles/GraphTraversal.dir/Graph.c.o	a653c2229b123ee7
+1	34	1707205905062305935	CMakeFiles/GraphTraversal.dir/LinkedQueue.c.o	4dcf502c8496c6d7
+1	35	1707205905063044849	CMakeFiles/GraphTraversal.dir/GraphTraversal.c.o	37a460e55cf1d1ea
+1	35	1707205905063484556	CMakeFiles/GraphTraversal.dir/Test_GraphTraversal.c.o	26cd8b16e7fe69cf
+35	65	1707205905094063141	GraphTraversal	5ccfdf8f8389a237
+1	29	1707205952326421420	CMakeFiles/GraphTraversal.dir/Test_GraphTraversal.c.o	26cd8b16e7fe69cf
+29	62	1707205952360035743	GraphTraversal	5ccfdf8f8389a237
