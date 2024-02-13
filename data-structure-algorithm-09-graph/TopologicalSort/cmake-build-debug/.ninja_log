@@ -1,0 +1,7 @@
+# ninja log v5
+0	47	1707208119275735986	CMakeFiles/TopologicalSort.dir/LinkedList.c.o	72227595a05c5506
+0	47	1707208119275273611	CMakeFiles/TopologicalSort.dir/TopologicalSort.c.o	5ac5f9acc8390b8
+0	47	1707208119275773903	CMakeFiles/TopologicalSort.dir/Graph.c.o	a589f02c6c80b8a3
+1	38	1707806779953349810	build.ninja	a8c0496e6f753815
+0	47	1707208119275274070	CMakeFiles/TopologicalSort.dir/Test_TopologicalSort.c.o	f8a7f3da08738e04
+47	78	1707208119305690685	TopologicalSort	7f1e9fe57b815c0d

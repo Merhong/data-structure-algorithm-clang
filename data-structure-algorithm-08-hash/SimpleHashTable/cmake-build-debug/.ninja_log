@@ -1,0 +1,5 @@
+# ninja log v5
+55	80	1707121360909162602	SimpleHashTable	7855a3c122440167
+0	54	1707121360883646488	CMakeFiles/SimpleHashTable.dir/Test_SimpleHashTable.c.o	7138538c97b2b568
+0	54	1707121360884027279	CMakeFiles/SimpleHashTable.dir/SimpleHashTable.c.o	67449e904c8468a4
+0	53	1707188376871807647	build.ninja	381c469a119fa2d3
