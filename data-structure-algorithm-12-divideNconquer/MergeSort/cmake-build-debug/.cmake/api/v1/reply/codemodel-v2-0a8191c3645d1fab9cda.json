@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.27"
+						"string" : "3.28"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "convention",
+					"name" : "MergeSort",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "convention::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-convention-Debug-77f3bf5c2e1f324c2ed6.json",
-					"name" : "convention",
+					"id" : "MergeSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MergeSort-Debug-7a9e511adb443a26fcb3.json",
+					"name" : "MergeSort",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/convention/cmake-build-debug",
-		"source" : "/Users/merhong/workspace/C:C++_lab/data-structure-algorithm/convention"
+		"build" : "/Users/merhong/workspace/C_lab/data-structure-algorithm-clang/data-structure-algorithm-12-divideNconquer/MergeSort/cmake-build-debug",
+		"source" : "/Users/merhong/workspace/C_lab/data-structure-algorithm-clang/data-structure-algorithm-12-divideNconquer/MergeSort"
 	},
 	"version" : 
 	{

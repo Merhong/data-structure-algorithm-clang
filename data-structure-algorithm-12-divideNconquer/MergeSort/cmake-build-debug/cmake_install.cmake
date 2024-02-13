@@ -1,4 +1,4 @@
-# Install script for directory: /Users/merhong/workspace/C_lab/data-structure-algorithm-clang/convention
+# Install script for directory: /Users/merhong/workspace/C_lab/data-structure-algorithm-clang/data-structure-algorithm-12-divideNconquer/MergeSort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/merhong/workspace/C_lab/data-structure-algorithm-clang/convention/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/merhong/workspace/C_lab/data-structure-algorithm-clang/data-structure-algorithm-12-divideNconquer/MergeSort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
