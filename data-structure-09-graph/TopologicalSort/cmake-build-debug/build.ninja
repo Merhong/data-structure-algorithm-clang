@@ -73,6 +73,12 @@ build CMakeFiles/TopologicalSort.dir/TopologicalSort.c.o: C_COMPILER__Topologica
   OBJECT_DIR = CMakeFiles/TopologicalSort.dir
   OBJECT_FILE_DIR = CMakeFiles/TopologicalSort.dir
 
+build CMakeFiles/TopologicalSort.dir/test.c.o: C_COMPILER__TopologicalSort_unscanned_Debug /Users/merhong/workspace/C_lab/data-structure-clang/data-structure-09-graph/TopologicalSort/test.c || cmake_object_order_depends_target_TopologicalSort
+  DEP_FILE = CMakeFiles/TopologicalSort.dir/test.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/TopologicalSort.dir
+  OBJECT_FILE_DIR = CMakeFiles/TopologicalSort.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target TopologicalSort
@@ -81,7 +87,7 @@ build CMakeFiles/TopologicalSort.dir/TopologicalSort.c.o: C_COMPILER__Topologica
 #############################################
 # Link the executable TopologicalSort
 
-build TopologicalSort: C_EXECUTABLE_LINKER__TopologicalSort_Debug CMakeFiles/TopologicalSort.dir/Graph.c.o CMakeFiles/TopologicalSort.dir/LinkedList.c.o CMakeFiles/TopologicalSort.dir/Test_TopologicalSort.c.o CMakeFiles/TopologicalSort.dir/TopologicalSort.c.o
+build TopologicalSort: C_EXECUTABLE_LINKER__TopologicalSort_Debug CMakeFiles/TopologicalSort.dir/Graph.c.o CMakeFiles/TopologicalSort.dir/LinkedList.c.o CMakeFiles/TopologicalSort.dir/Test_TopologicalSort.c.o CMakeFiles/TopologicalSort.dir/TopologicalSort.c.o CMakeFiles/TopologicalSort.dir/test.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/TopologicalSort.dir
   POST_BUILD = :

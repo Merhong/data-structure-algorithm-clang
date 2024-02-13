@@ -1,0 +1,7 @@
+# ninja log v5
+1	160	1707801803727825451	CMakeFiles/MinimumSpanningTree.dir/Test_MST.c.o	d7c4a65fbc3b1655
+1	161	1707801803727856242	CMakeFiles/MinimumSpanningTree.dir/MST.c.o	c4e72dc0ebc7d5ef
+1	161	1707801803727842659	CMakeFiles/MinimumSpanningTree.dir/Graph.c.o	c3e760e99ea76eeb
+1	161	1707801803727818784	CMakeFiles/MinimumSpanningTree.dir/PriorityQueue.c.o	d2421f274cc92732
+1	161	1707801803727839076	CMakeFiles/MinimumSpanningTree.dir/DisjointSet.c.o	1e8661f8660baa49
+161	264	1707801803831057816	MinimumSpanningTree	9bc6c78998804772

@@ -7,4 +7,5 @@ add_executable(TopologicalSort
         Graph.c
         LinkedList.c
         Test_TopologicalSort.c
-        TopologicalSort.c)
+        TopologicalSort.c
+)
