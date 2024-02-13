@@ -1,0 +1,4 @@
+# ninja log v5
+2	52	1707815878515558257	build.ninja	c39e74cf93c2ac7
+0	40	1707815878562032572	CMakeFiles/FastExponentiation.dir/FastExponentiation.c.o	9135412a3760e226
+40	84	1707815878605842298	FastExponentiation	3950e154f1dbfc2f
