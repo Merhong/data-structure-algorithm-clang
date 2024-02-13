@@ -1,5 +1,0 @@
-# ninja log v5
-0	27	1706685334369823473	build.ninja	ff35c631004c9584
-0	44	1706684249519133625	CMakeFiles/SequentialSearch.dir/SequentialSearch.c.o	48ab1fac23480c11
-0	31	1706684197113397749	CMakeFiles/SequentialSearch.dir/LinkedList.c.o	b6cbb63b69c990a9
-44	75	1706684249550795546	SequentialSearch	d9ae23a29a970b7f

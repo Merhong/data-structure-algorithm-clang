@@ -1,3 +1,0 @@
-/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-07-priorityqueueheap/Heap/cmake-build-debug/CMakeFiles/Heap.dir
-/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-07-priorityqueueheap/Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-07-priorityqueueheap/Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
