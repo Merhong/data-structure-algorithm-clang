@@ -7,7 +7,7 @@
 
 #define MAX_WEIGHT 36267
 
-void Prim(Graph* G, Vertex* StartVertex, Graph* MST );
-void Kruskal(Graph* G, Graph* MST );
+void Prim(Graph *G, Vertex *StartVertex, Graph *MST);
+void Kruskal(Graph *G, Graph *MST);
 
 #endif

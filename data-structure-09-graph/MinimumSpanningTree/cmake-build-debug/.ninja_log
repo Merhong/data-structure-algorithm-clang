@@ -5,3 +5,6 @@
 1	161	1707801803727818784	CMakeFiles/MinimumSpanningTree.dir/PriorityQueue.c.o	d2421f274cc92732
 1	161	1707801803727839076	CMakeFiles/MinimumSpanningTree.dir/DisjointSet.c.o	1e8661f8660baa49
 161	264	1707801803831057816	MinimumSpanningTree	9bc6c78998804772
+2	39	1707802018225206280	CMakeFiles/MinimumSpanningTree.dir/Test_MST.c.o	d7c4a65fbc3b1655
+2	40	1707802018225599697	CMakeFiles/MinimumSpanningTree.dir/MST.c.o	c4e72dc0ebc7d5ef
+40	73	1707802018258328310	MinimumSpanningTree	9bc6c78998804772

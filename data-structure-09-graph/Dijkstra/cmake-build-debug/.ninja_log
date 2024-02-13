@@ -1,0 +1,6 @@
+# ninja log v5
+1	32	1707804076232580183	CMakeFiles/Dijkstra.dir/Test_ShortestPath.c.o	6fd7fc5f373bc7f1
+1	33	1707804076233243184	CMakeFiles/Dijkstra.dir/ShortestPath.c.o	47f8121c39985034
+1	36	1707804076235596479	CMakeFiles/Dijkstra.dir/PriorityQueue.c.o	4bb8d55b4f520985
+1	37	1707804076237869148	CMakeFiles/Dijkstra.dir/Graph.c.o	4c40374eb294852b
+37	68	1707804076267571063	Dijkstra	4bc61a2adbf2608f

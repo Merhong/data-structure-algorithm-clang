@@ -21,51 +21,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca7c237-1a49-44d9-82b9-1885c9497f23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MinimumSpanningTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DisjointSet.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DisjointSet.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MST.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MST.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PriorityQueue.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PriorityQueue.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_MST.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3e20d61bb80e097a67ed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-e0f424cc4383644d699f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/.idea/TopologicalSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/.idea/TopologicalSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-87d786d5983e3d20f7ab.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-06T08-28-39-0228.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/.cmake/api/v1/reply/target-TopologicalSort-Debug-712cbb7999ae82895239.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologicalSort/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MST.h" beforeDir="false" afterPath="$PROJECT_DIR$/MST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/MinimumSpanningTree" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/MinimumSpanningTree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +62,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake Application.MinimumSpanningTree.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -111,6 +73,10 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/merhong/workspace/C_lab/data-structure-clang/data-structure-09-graph/MinimumSpanningTree&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -132,11 +98,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -149,7 +110,8 @@
       <workItem from="1707801280201" duration="208000" />
       <workItem from="1707801499887" duration="161000" />
       <workItem from="1707801677019" duration="58000" />
-      <workItem from="1707801744085" duration="56000" />
+      <workItem from="1707801744085" duration="388000" />
+      <workItem from="1707803979493" duration="2000" />
     </task>
     <servers />
   </component>
