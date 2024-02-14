@@ -1,0 +1,5 @@
+# ninja log v5
+1	183	1707904401775361527	CMakeFiles/Huffman.dir/Huffman.c.o	2deb9a783dd26094
+1	184	1707904401775243737	CMakeFiles/Huffman.dir/PriorityQueue.c.o	cabc7f56a36c39a5
+1	184	1707904401774641952	CMakeFiles/Huffman.dir/Test_Huffman.c.o	354a6c2911866de6
+184	272	1707904401863081523	Huffman	550db1374a586dc3
