@@ -1,0 +1,5 @@
+# ninja log v5
+0	53	1707898242604363497	build.ninja	cd7633d3de96067d
+1	58	1707898242668074758	CMakeFiles/MakingChange.dir/MakingChange.c.o	1b831efe64a31fe2
+1	58	1707898242668190967	CMakeFiles/MakingChange.dir/TestMakingChange.c.o	3507c1aca5b27106
+59	93	1707898242703103145	MakingChange	677ac1cf403bcc7a
